@@ -1,4 +1,4 @@
-🇫🇷 [Lire en français](README.md)
+🇫🇷 [Lire en français](README_FR.md)
 
 ## Hi I'm Maoui 👋🏼
 ### Cloud & Security Consultant | Microsoft 365 | Azure | Technical project Leadership  
